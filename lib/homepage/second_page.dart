@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rent_app/detailpage/detail_page.dart';
+import 'package:jamtangan/detailpage/detail_page.dart';
 
 class SecondPage extends StatelessWidget {
   const SecondPage({Key? key}) : super(key: key);

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rent_app/homepage/second_page.dart';
+import 'package:jamtangan/homepage/second_page.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);

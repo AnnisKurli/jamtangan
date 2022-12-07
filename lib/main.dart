@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:rent_app/homepage/home_page.dart';
-import 'package:rent_app/homepage/second_page.dart';
+import 'package:jamtangan/homepage/home_page.dart';
+import 'package:jamtangan/homepage/second_page.dart';
 
 void main() {
   runApp(const MyApp());
